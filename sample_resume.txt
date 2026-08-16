@@ -1,0 +1,13 @@
+Mohammad Shoaib
+Associate at Intelligence Node
+
+Skills:
+Python, SQL, MySQL, Power BI, Excel, Tableau, R Programming,
+Machine Learning, EDA, Data Analysis, MongoDB.
+
+Experience:
+Worked on data validation, website data verification, SQL-based checks,
+issue tracking, product data analysis and AI prompt validation.
+
+Projects:
+Machine Learning, SQL analysis, Power BI dashboards and Python data analysis.

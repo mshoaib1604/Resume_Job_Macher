@@ -1,0 +1,8 @@
+We are looking for a Junior Data Scientist.
+
+Requirements:
+Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn,
+AWS, Docker and Git.
+
+The candidate should have experience with data analysis,
+machine learning models, data preprocessing and visualization.
